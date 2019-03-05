@@ -1,2 +1,4 @@
-# data_mining
-class projects
+## Data Mining
+---
+* suppliers, parts, cost
+* university
