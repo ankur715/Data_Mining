@@ -260,3 +260,5 @@ insert into prereq values ('EE-181', 'PHY-101');
 
 select * from classroom;
 select * from department;
+
+ALTER USER 'root'@'localhost' identified with mysql_native_password BY 'ankur715'
