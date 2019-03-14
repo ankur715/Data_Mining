@@ -1,13 +1,13 @@
 ## Data Mining
 ---
 #### MySQL:
-__** Homeaway **__
+**_Homeaway_**
 * Suppliers, Parts, Cost
 * University
 
 #### PostgreSQL:
-__** ZAGDB **__
-__** Clubdata-1 **__
+**_ZAGDB_**
+**_Clubdata-1_**
 * Basics
 * Joing and Subqueries
 * Modifying data
