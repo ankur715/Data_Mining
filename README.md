@@ -1,11 +1,11 @@
 ## Data Mining
 ---
-####MySQL:
+#### MySQL:
 ** Homeaway
 * Suppliers, Parts, Cost
 * University
 
-####PostgreSQL:
+#### PostgreSQL:
 ** ZAGDB
 ** Clubdata-1
 * Basics
